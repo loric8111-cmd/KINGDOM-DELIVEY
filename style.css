@@ -118,7 +118,7 @@ color: var(--orange);
             rgba(7, 18, 31, 0.82) 45%,
             rgba(7, 18, 31, 0.35) 100%
         ),
-        url("images/hero.jpg") center center / cover no-repeat;
+        url("images/hero(2).jpg") center center / cover no-repeat;
 
     color: #ffffff;
 }
